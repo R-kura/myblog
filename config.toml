@@ -1,0 +1,5 @@
+author = "kuragasaki"
+baseURL = "https://R-kura.github.io/"
+languageCode = "ja"
+theme = "hugo-zen"
+title = "My New Hugo Site"
